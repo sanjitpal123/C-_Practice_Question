@@ -4,7 +4,7 @@ using System;
 
 public class calculator{
     public void add(int a, int b)
-    {
+    { 
         Console.WriteLine(a+b);
     } 
     public void substact (int a, int b)
