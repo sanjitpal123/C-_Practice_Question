@@ -2,7 +2,7 @@
 using System;
 
 public class HelloWorld
-{
+{ 
     public static void Main(string[] args)
     { 
      int c=0;
