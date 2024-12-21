@@ -7,7 +7,7 @@ public class HelloWorld
     { 
      int c=0;
      Console.WriteLine("Enter a number");
-     int n = int.Parse(Console.ReadLine());
+     int n = int.Parse(Console.ReadLine()); 
      for(int i=1;i<=n;i++)
      {
          if(n%i==0)
