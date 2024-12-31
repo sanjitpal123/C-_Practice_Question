@@ -4,7 +4,7 @@
 using System;
 
 public class order{
-    private  int orderId;
+    private  int orderId; 
     private int orderDate;
     private int totalamount;
     private int discount;
